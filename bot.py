@@ -4,7 +4,7 @@ import discord
 from dotenv import load_dotenv #not be using, might implement in the future
 
 load_dotenv() #not implemented fully, it will make source code more secure tho
-TOKEN = 'ODA2MjY3NTQyOTYwMDc4ODg4.YBm9KQ.KJ45k96BSJmzSQ2hOdlaxNqoeVg' #discord bot token
+TOKEN = '#enter token here' #discord bot token
 
 client = discord.Client()
 
